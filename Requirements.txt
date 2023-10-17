@@ -1,0 +1,12 @@
+Color-Pallate:
+
+Columbia blue:bbdef0
+Light sea green:00a6a6
+Arylide yellow:dfc74d
+Gamboge:f49f0a
+Tangerine:f08700
+
+Font-Family:
+
+Merriweather: https://fonts.google.com/specimen/Merriweather
+Quicksand:https://fonts.google.com/specimen/Quicksand
